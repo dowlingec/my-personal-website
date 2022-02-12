@@ -43,6 +43,19 @@ ol, ul {
     border-radius: 20px;
 }
 
+#contact div {
+    float: left;
+    background: gold;
+    font-size: 30px;
+    text-align: center;
+    width: 33.333333333333%;
+    color: black;
+  }
+
 #colorTest {
     color: gold;
+}
+
+a {
+    color: inherit;
 }
