@@ -5,8 +5,33 @@ body {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+
+}
 //
