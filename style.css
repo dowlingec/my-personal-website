@@ -41,7 +41,7 @@ h3 {
 p.blocktext {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
@@ -49,11 +49,15 @@ p.blocktext {
 }
 
 
-ol, ul {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
     margin-top: 5px;
-    width: 50%;
+    width: 80%%;
+    text-align: left;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #funStuff div {
@@ -109,6 +113,15 @@ a:active {
     margin-left: auto;
     margin-right: auto;
     width: 80%;
+}
+
+#rainbowConnection {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 20px;
 }
 
 /* .class is class selector, no punctiation is element selevtor, #id is id selector
