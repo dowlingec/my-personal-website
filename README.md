@@ -11,7 +11,10 @@ To do list
 //format intro
 TRY div element to break float btwn top 3 and contact
 top 3s - horizontal
-js, link click - change color, gold 
+//link click - change color, gold 
 css headshot click - fun message
 //TROUBLESHOOT- headshot - too large when screen full size
 //TROUBLESHOOT- intro with appropriate borders
+//Add something, ANYTHING from js (I made a button, yay!)
+
+Add idex at top
