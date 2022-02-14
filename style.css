@@ -2,6 +2,14 @@ body {
     background: #006666;
 }
 
+.topnav {
+    background-color: teal;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+  }
+
 h1 {
     color: ivory;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -64,10 +72,6 @@ ol {
 #funStuff div {
 }
 
-/*#breakPoint {
-    clear: float;
-}*/
-
 /*NO TOUCHY*/
 #contact div {
     float: left;
@@ -89,6 +93,7 @@ ol {
 
 a {
     color: black;
+    font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
@@ -102,8 +107,18 @@ a:active {
 }
 
 .button {
-    background: gold;
-    font-size: 25px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#jumpTo {
+    display: inline;
 }
 
 #bulkText {
