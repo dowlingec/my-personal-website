@@ -21,29 +21,9 @@ css headshot click - fun message
 
 Second JS function (research)
 //Format header nav -fnt size & horizontal
-Reformat button
+//Reformat button
 
 
 FINAL CHECKS - MON AM
 Layout in several browsers/size ratios
 Font size checks/
-
-
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
-
-#navigate {
-    display: inline;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
-    margin-top: 5px;
-    width: 80%%;
-    text-align: left;
-    font-weight: bold;
-    margin-left: auto;
-    margin-right: auto;
-}

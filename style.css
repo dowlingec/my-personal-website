@@ -68,6 +68,7 @@ ol {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
 }
 
 /*NO TOUCHY*/
@@ -94,7 +95,7 @@ ol {
 
 a {
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
@@ -114,7 +115,7 @@ a:visited {
 
 #jumpTo {
     display: inline;
-    text-indent: 20px;
+    inden
 }
 
 #bulkText {
@@ -123,7 +124,7 @@ a:visited {
     font-size: 25px;
     font-weight: bold;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 30%;
     width: 80%;
 }
 
